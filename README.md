@@ -13,8 +13,8 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](LINK_LINKEDIN)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)]([LINK_GIT](https://github.com/drcs2000))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)]([LINK_LINKEDIN](https://www.linkedin.com/in/davirangelcamara/?locale=en_US))
 
 - With a solid foundation as a Systems Information student at UFV, coupled with 3 years of professional experience in development, I am currently pursuing opportunities in front-end development with Vue.js and full-stack using Node.js. I am committed to delivering high-quality, user-centric solutions. Available for both remote and on-site roles.
 - Thanks for visiting my profile.
