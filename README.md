@@ -2,7 +2,7 @@
 
 ## I'm Davi Rangel!
 
-:computer: I'm a Front-End Developer!
+:computer: I'm a FullStack Developer!
 
 :house_with_garden: I’m from Brazil.
 
