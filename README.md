@@ -51,7 +51,7 @@
 
 ### Academic Background
 - Studied various programming languages and frameworks, including React, PHP, Python, C++, and C.
-- Developed a Pac-Man game in C++ and another game in Python.
+- Developed a Pac-Man game in C++ and MineSweeper game in Python.
 - Earned certifications in Python and React through Udemy courses.
 
 ---
